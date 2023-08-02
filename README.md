@@ -2,12 +2,15 @@
 A React Contact Form which stores data in realtime databse of firebase
 
 Contact Form
-<img src="../form.png" alt="Logo" width="250" height="250">
+![form](https://github.com/AasthaSinghal21/Firebase-ContactForm/assets/98251864/9eed815c-1f4e-4a29-b7c5-b332afa996e4)
+
 
 Filled Form
-<img src = "../filled.png" alt="Logo" width="250" height="250">
+![filled](https://github.com/AasthaSinghal21/Firebase-ContactForm/assets/98251864/dcbc0142-de99-4009-a9c1-507a71a57fc4)
+
 
 RealTime Database
-<img src = "../database.png" alt="Logo" width="250" height="250">
+![database](https://github.com/AasthaSinghal21/Firebase-ContactForm/assets/98251864/1d780227-6787-4c83-bbdb-165c9cef516d)
+
 
 
